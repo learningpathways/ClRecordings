@@ -17,7 +17,8 @@
     "https://autologon.microsoftazuread-sso.com",
     "https://webshell.suite.office.com",
     "https://shell.cdn.office.net",
-    "https://waconatm.officeapps.live.com"
+    "https://waconatm.officeapps.live.com",
+    "https://outlook.office.com"
   ],
   "Languages": [
     "en-US"
