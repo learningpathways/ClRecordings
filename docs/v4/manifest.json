@@ -13,7 +13,11 @@
     "https://content.development.clicklearn.dk",
     "https://login.microsoftonline.com",
     "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://autologon.microsoftazuread-sso.com",
+    "https://webshell.suite.office.com",
+    "https://shell.cdn.office.net",
+    "https://waconatm.officeapps.live.com"
   ],
   "Languages": [
     "en-US"
