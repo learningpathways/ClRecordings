@@ -8,12 +8,13 @@
     "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
     "SubjectId": "",
     "Source": "ClickLearn",
-    "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+    "CatId": "1",
     "Description": "Details of Outlok functionality",
     "StatusTagId": "",
     "StatusNote": null,
     "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3"
+      "1",
+      "2"
     ]
   },
   {
@@ -25,14 +26,12 @@
     "TechnologyId": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
     "SubjectId": "",
     "Source": "ClickLearn",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "CatId": "1",
     "Description": "Detail of functions in Excel",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "11a632c1-197e-454f-a515-374a4aa2b3dd",
-      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
-      "11a632c1-197e-454f-a515-374a4aa2b3dd"
+    
     ]
   },
   {
@@ -49,7 +48,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "64b51431-c51a-45db-8ddd-d58b9b101c42"
+     
     ]
   },
   {
@@ -66,12 +65,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-     "861d97cb-3b33-4978-92e4-9446dc19b8da",
-      "48580e26-5b6d-48d3-afb5-317e18006dcb",
-      "06e7419f-fdea-4f32-bc2b-f73088410881",
-      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
-      "95146525-ce4f-4ff6-a118-c0724deb1a98",
-      "0edb925e-2af7-47fb-895a-28a07d5b73d4"
+ 
     ]
   },
   {
@@ -88,13 +82,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "861d97cb-3b33-4978-92e4-9446dc19b8da",
-      "48580e26-5b6d-48d3-afb5-317e18006dcb",
-      "06e7419f-fdea-4f32-bc2b-f73088410881",
-      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
-      "95146525-ce4f-4ff6-a118-c0724deb1a98",
-      "0edb925e-2af7-47fb-895a-28a07d5b73d4",
-      "9d7d2acb-7071-4d9f-bf22-35303d7cc5f8"
+    
     ]
   },
   {
@@ -111,7 +99,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "82cfacc1-46ed-400f-863d-1ee0400f5fa7"
+     
     ]
   },
   {
@@ -128,7 +116,7 @@
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "f8b36f10-c4a1-4320-9cc1-9984eb9abd45"
+   
     ]
   },
   {
